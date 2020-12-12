@@ -1,5 +1,7 @@
 # <img src="./gifs/Hi.gif" width="30px"> Hi, I'm Mehmet Okan TAŞTAN 👨‍💻
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=motastan95/motastan95)
+
 I'm experienced (10+ years), hardworking, disciplined and punctual computer engineer with a demonstrated history of working in computer software industry. I'm developing scalable applications and systems with all new technologies. I'm personal development enthusiast and linux enthusiast. I am passionate about technologies and love to learn new things.
 
 🔭 I’m currently looking for new opportunities (pref. remote).
@@ -92,5 +94,3 @@ Here are things that saved me everyday:
 - LinkedIn - [Mehmet Okan TAŞTAN](https://in.linkedin.com/in/motastan)
 - Twitter - [Mehmet Okan TAŞTAN](https://twitter.com/motastan95)
 - Mail - [motastan95@hotmail.com](mailto:motastan95@hotmail.com)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=motastan95/motastan95)

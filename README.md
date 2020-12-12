@@ -1,6 +1,6 @@
 # <img src="./gifs/Hi.gif" width="30px"> Hi, I'm Mehmet Okan TAŞTAN 👨‍💻
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=motastan95/motastan95)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=motastan95/motastan95/2020/12/12)
 
 I'm experienced (10+ years), hardworking, disciplined and punctual computer engineer with a demonstrated history of working in computer software industry. I'm developing scalable applications and systems with all new technologies. I'm personal development enthusiast and linux enthusiast. I am passionate about technologies and love to learn new things.
 
@@ -67,7 +67,7 @@ I have also developed lots of projects with:
 * ☁ Amazon AWS | DigitalOcean
 * 🔧 Vagrant
 * 🔧 IIS Web Server | Apache Tomcat | Glassfish | Caddy Web Server
-* 🔧 SignalR | Puppeteer | WebSocket | ZeroMQ
+* 🔧 SignalR | Puppeteer | WebSocket | ZeroMQ | RabbitMQ
 * 🎮 SDL | OpenGL
 * 🎨 GIMP
 

@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/motastan95/motastan95/master/gifs/Hi.gif" width="30px"> Hi, I'm Mehmet Okan TAŞTAN 👨‍💻
+# <img src="./gifs/Hi.gif" width="30px"> Hi, I'm Mehmet Okan TAŞTAN 👨‍💻
 
 I'm experienced (10+ years), hardworking, disciplined and punctual computer engineer with a demonstrated history of working in computer software industry. I'm developing scalable applications and systems with all new technologies. I'm personal development enthusiast and linux enthusiast. I am passionate about technologies and love to learn new things.
 

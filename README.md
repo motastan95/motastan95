@@ -92,6 +92,5 @@ Here are things that saved me everyday:
 - LinkedIn - [Mehmet Okan TAŞTAN](https://in.linkedin.com/in/motastan)
 - Twitter - [Mehmet Okan TAŞTAN](https://twitter.com/motastan95)
 - Mail - [motastan95@hotmail.com](mailto:motastan95@hotmail.com)
-- Phone - [+90 506 779 12 05](tel:+905067791205)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=motastan95/motastan95) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=motastan95/motastan95)

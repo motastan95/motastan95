@@ -10,7 +10,7 @@ I worked in lots of positions (Lead Developer, Senior Full-Stack Engineer, Compu
 
 All of my projects are stored in my private git server. If you want to look at some of them, please contact me.
 
-#### ❤️ Interests ❤️
+#### Interests
 
 - Engineering
 - Programming
@@ -19,7 +19,7 @@ All of my projects are stored in my private git server. If you want to look at s
 - Maths
 - Musical Instruments
 
-#### ❤️ Quotes ❤️
+#### Quotes
 
 - "Nothing is impossible, the word itself says 'I'm possible'!"- Audrey Hepburn
 
@@ -77,7 +77,7 @@ I have also developed lots of projects with:
 * Macbook Air 2013
 * Samsung NP350V5C-S0KTR
 
-## ❤️ Programs
+## Other Stuff
 
 Here are things that saved me everyday:
 

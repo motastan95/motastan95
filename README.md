@@ -44,6 +44,7 @@ Here are things that I prefer:
 * 🔧 DroneCI | CodeMagic
 * 🌐 HTML | CSS | Angular Framework
 * ☁ Hetzner Cloud | Cloudflare | Namecheap | Yandex Connect
+* ☁ Google Firebase | OneSignal
 * 📟 Raspberry PI | Arduino | Orange PI | PIPO X9C
 * 🔧 Docker | DroneCI | Portainer | Webmin | VirtualBox
 * ☁️ Nginx Web Server | SocketIO | SeleniumHQ
@@ -58,13 +59,13 @@ I have also developed lots of projects with:
 * 🗣 C | C++ | C# | Go | Java | QBASIC
 * 🗣 Assembly (x86, 8085, 8086) | Java Bytecode
 * 🖇️ NET Core | ASP Net | PHP
-* 📱 Android (Java) | React Native
+* 📱 Xamarin | Android (Java) | React Native
 * 📟 QT (C++, Python), C# WinForms
 * 🛢️ Microsoft SQL Server | MySQL
 * :octocat: Subversion | Team Foundation Server
 * :octocat: Git | Github | Gitlab
-* 🔧 Jenkins | Ansible | Gitlab CI / CD
-* ☁ Amazon AWS | DigitalOcean
+* 🔧 Jenkins | Ansible | Gitlab CI / CD | Grafana | Prometheus
+* ☁ Amazon AWS | DigitalOcean | Veesp
 * 🔧 Vagrant
 * 🔧 IIS Web Server | Apache Tomcat | Glassfish | Caddy Web Server
 * 🔧 SignalR | Puppeteer | WebSocket | ZeroMQ | RabbitMQ
@@ -89,6 +90,7 @@ Here are things that saved me everyday:
 * [IrfanView](https://www.irfanview.com/) | [VLC Player](https://www.videolan.org/vlc/) | [GIMP](https://www.gimp.org/) | [Cmder](https://cmder.net/) | [DOSBox](https://www.dosbox.com/)
 * [AutoIt - AutoHotkey](https://www.autoitscript.com/site/) | [SumatraPDF](https://www.sumatrapdfreader.org/) | [Calibre](https://calibre-ebook.com/) | [Mozilla Thunderbird](https://www.thunderbird.net/)
 * [Wireguard](https://www.wireguard.com/) | [OpenVPN](https://openvpn.net/) | [Pi-Hole](https://pi-hole.net/) | [NextCloud](https://nextcloud.com/)
+* [UPX](https://upx.github.io/) | [HxD](https://mh-nexus.de/en/hxd/) | [7-Zip](https://www.7-zip.org/) | [AnyDesk](https://anydesk.com/) | [DBeaver](https://dbeaver.io/)
 
 ## 📫 Get in touch
 - LinkedIn - [Mehmet Okan TAŞTAN](https://in.linkedin.com/in/motastan)
